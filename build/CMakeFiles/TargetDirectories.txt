@@ -1,0 +1,3 @@
+/home/mayank/Desktop/trafiic_control/build/CMakeFiles/traffic_sim.dir
+/home/mayank/Desktop/trafiic_control/build/CMakeFiles/edit_cache.dir
+/home/mayank/Desktop/trafiic_control/build/CMakeFiles/rebuild_cache.dir
